@@ -119,7 +119,7 @@ const Footer = () => {
             © 2022 Car rental <br /> Terms & Conditions
           </h3>
         </div>
-        <div className="flex flex-col md:flex-row gap-20">
+        <div className="flex flex-col md:flex-row gap-20 mb-10">
           <div className="">
             <h3 className="font-medium text-base text-black pb-2">Contact</h3>
             <a
