@@ -46,7 +46,7 @@
 
 
 import React from "react";
-import { cars } from "../api.js";
+import { cars } from "../Api.js";
 import CarCard from "./CarCard.jsx"; // CarCard komponentini import qilamiz
 
 const Dreams = () => {
