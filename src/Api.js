@@ -1,4 +1,3 @@
-// api.js
 import Ford2 from "../src/assets/img/ford2.png";
 import Nissan2 from '../src/assets/img/nissan2.png'
 import Toyota2 from '../src/assets/img/toyota2.png'

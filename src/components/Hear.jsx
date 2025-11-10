@@ -1,8 +1,8 @@
 import React from 'react'
-import Ava from "../assets/img/ava.png";
+import Ava from "../assets/img/Ava.png";
 import Google from "../assets/img/google.png";
-import Star from "../assets/img/star.png";
-import Ava2 from "../assets/img/ava2.png";
+import Star from "../assets/img/Star.png";
+import Ava2 from "../assets/img/Ava2.png";
 
 const Hear = () => {
   return (

@@ -1,4 +1,3 @@
-// CarCard.jsx
 import React from "react";
 
 const CarCard = ({ car }) => {
@@ -101,4 +100,4 @@ const CarCard = ({ car }) => {
   );
 };
 
-export default CarCard; // ✅ shu qator bo‘lishi shart
+export default CarCard; 
